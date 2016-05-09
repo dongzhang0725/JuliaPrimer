@@ -11,15 +11,16 @@
 - 章节目录下文件名不需要加章节号和小节号，文件名之间用减号分隔。  
 - 每个章节目录下都有一个 intro.md 文件介绍本章节的内容。  
 - 行尾都统一加两个空格标识。  
+- 认领章节或者创建新章节的 Julians 请加上预计完成日期。
 
 ## 计划目录  
-- [ ] [第00章 前言](./00-chapter-preface/intro.md)  
-- [ ] [第01章 简介](./01-chapter-introduction/intro.md)  
-- [ ] [第02章 安装与配置](./02-chapter-install-configuration/intro.md)  
+- [ ] [第00章 前言](./00-chapter-preface/intro.md) **不需要认领**  
+- [ ] [第01章 简介](./01-chapter-introduction/intro.md) **Naupio**  
+- [ ] [第02章 安装与配置](./02-chapter-install-configuration/intro.md) **Naupio**  
     - [ ] [Windows]()  
     - [ ] [Linux]()  
     - [ ] [Mac]()  
-- [ ] [第03章 快速入门](./03-chapter-quickstart/intro.md)  
+- [ ] [第03章 快速入门](./03-chapter-quickstart/intro.md) **Naupio**  
     - [ ] [输入输出]()  
     - [ ] [基础类型]()  
     - [ ] [字符串与数组]()  
