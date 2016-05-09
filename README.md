@@ -7,6 +7,7 @@
 - 英文和中文之间使用空格间隔。  
 - 全书统一使用中文标点符号。  
 - 协作先 fork 一份，再提 PR。
+- 所有创建的目录和文件仅使用英文、数字和下划线命名。
 
 ## 计划目录
 - [ ] [第00章 前言]()  
@@ -32,8 +33,8 @@
 - [ ] [something to do~]()  
 
 ## 维护与支持
-本书由 [Haplox](http://www.haplox.cn/)（深圳市海普洛斯生物科技有限公司）赞助与支持。
-[Haplox 招聘 Julia 工程师](http://www.haplox.cn/__jobs/)
+- 本书由 [Haplox](http://www.haplox.cn/)（深圳市海普洛斯生物科技有限公司）赞助与支持。  
+- [Haplox 招聘 Julia 工程师](http://www.haplox.cn/__jobs/)  
 
 ## 生产与应用
 Haplox 在生物信息、DNA大数据工程、机器学习等相关产品中大规模使用 Julia，是国内最早把 Julia 投入生产环境的公司。其中由 Haplox 维护的 [OpenGene 项目](https://github.com/OpenGene)包含大量“基因生态相关”的 Julia 项目。
