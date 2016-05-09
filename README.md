@@ -1,11 +1,12 @@
 # Julia Language Primer Book-CN
-这是一本关于 Julia 语言的书籍，由 [Naupio](https://github.com/Naupio) 和 [zhmz90](https://github.com/zhmz90) 发起，书籍的内容组织与 Naupio 合作写作的 [RustPrimer](https://github.com/Naupio/RustPrimer) 相似。
+这是一本关于 Julia 语言的书籍，由 [sfchen](https://github.com/sfchen)、[Naupio](https://github.com/Naupio) 和 [zhmz90](https://github.com/zhmz90) 发起，书籍的内容组织与 Naupio 合作写作的 [RustPrimer](https://github.com/Naupio/RustPrimer) 相似。
 
 ## 协作说明
 - 欢迎 Julians 参与写作，可以在 [#1 issue](https://github.com/haploxer/JuliaPrimer/issues/1) 认领章节。
 - 本书采用 Markdown 标记语法写作，遵循 github 的渲染规则。  
 - 英文和中文之间使用空格间隔。  
 - 全书统一使用中文标点符号。  
+- 协作先 fork 一份，再提 PR。
 
 ## 计划目录
 - [ ] [第00章 前言]()  
