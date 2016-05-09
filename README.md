@@ -2,7 +2,7 @@
 这是一本关于 Julia 语言的书籍，由 [sfchen](https://github.com/sfchen)、[Naupio](https://github.com/Naupio) 和 [zhmz90](https://github.com/zhmz90) 发起，书籍的内容组织与 Naupio 合作写作的 [RustPrimer](https://github.com/Naupio/RustPrimer) 相似。  
 
 ## 协作说明  
-- 欢迎 Julians 参与写作，可以在 [#1 issue](https://github.com/haploxer/JuliaPrimer/issues/1) 认领章节。
+- 欢迎 Julians 参与写作，可以在 [issue](https://github.com/haploxer/JuliaPrimer/issues/1) 认领章节。  
 - 本书采用 Markdown 标记语法写作，遵循 github 的渲染规则。  
 - 英文和中文之间使用空格间隔。  
 - 全书统一使用中文标点符号。  
@@ -10,8 +10,8 @@
 - 所有创建的目录和文件仅使用英文、数字和减号命名。  
 - 章节目录下文件名不需要加章节号和小节号，文件名之间用减号分隔。  
 - 每个章节目录下都有一个 intro.md 文件介绍本章节的内容。  
-- 行尾都统一加两个空格标识。  
-- 认领章节或者创建新章节的 Julians 请加上预计完成日期。
+- 段落或者需要换行的地方，都在末尾先两个空格标识。  
+- 认领章节或者创建新章节的 Julians 请加上预计完成日期。  
 
 ## 计划目录  
 - [ ] [第00章 前言](./00-chapter-preface/intro.md) **不需要认领**  
