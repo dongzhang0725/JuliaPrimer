@@ -20,7 +20,7 @@
     - [ ] [Windows]()  
     - [ ] [Linux]()  
     - [ ] [Mac]()  
-- [ ] [第03章 快速入门](./03-chapter-quickstart/intro.md) **Naupio**  
+- [x] [第03章 快速入门](./03-chapter-quickstart/intro.md) **Naupio**  
     - [ ] [输入输出]()  
     - [ ] [基础类型]()  
     - [ ] [字符串与数组]()  
