@@ -14,13 +14,13 @@
 
 ## 计划目录
 - [ ] [第00章 前言](./00-chapter-preface/intro.md) **不需要认领**
-- [ ] [第01章 简介](./01-chapter-introduction/intro.md) **Naupio**
+- [x] [第01章 简介](./01-chapter-introduction/intro.md) **Naupio**
 - [ ] [第02章 安装与配置](./02-chapter-install-configuration/intro.md) **Naupio**
     - [ ] [Windows]()
     - [ ] [Linux]()
     - [ ] [Mac]()
 - [x] [第03章 快速入门](./03-chapter-quickstart/intro.md) **Naupio**
-    - [ ] [Julia旅程]()
+    - [x] [Julia旅程](./03-chapter-quickstart/julia-tutorial.md)
     - [ ] [输入输出]()
     - [ ] [基础类型]()
     - [ ] [字符串与数组]()
@@ -29,11 +29,13 @@
     - [ ] [抽象与类型]()
     - [ ] [模块化管理]()
 - [ ] [第04章 Julia进阶]()
+    - [ ] [函数式编程]()
     - [ ] [并行与并发]()
     - [ ] [高性能代码]()
     - [ ] [宏编程]()
     - [ ] [与其他语言交互]()
-- [ ] [第05章 Julia内部结构]()
+- [ ] [第05章 生物信息学]() **Naupio**
+- [ ] [第06章 DAG计算]() **Naupio**
 - [ ] [something to do~]()
 
 ## 维护与支持
